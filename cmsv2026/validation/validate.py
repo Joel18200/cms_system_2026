@@ -1,0 +1,1 @@
+print("No validation rule given yet!")
